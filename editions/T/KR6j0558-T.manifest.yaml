@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0558/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0558/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說呪齒經
+  identifiers:
+    krp: KR6j0558
+    cbeta: T21n1327
+    cbeta_old_id: T21n1327
+    authorityid: CA0004114
+    json_key: T1327
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1327.xml
+    old_id: T21n1327
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0558_000-T.yaml, hash: 'sha256:a30881942c6272fff72e50e0a2f2e71960cf3c7fc73cbfddaf491f6f57f522d2'}
+  - {seq: 1, filename: KR6j0558_001-T.yaml, hash: 'sha256:74eeac2418fa9c49a3e0e25e75cc821ecec200fb97e5499dda928b533b7913b9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0558_000-T.markers.yaml, hash: 'sha256:af068a2f0b98b26d6a1da0ec5c5da7ff1ad5491576452047117744a54ab6e171'}
+  - {seq: 1, role: markers, filename: assets/KR6j0558_001-T.markers.yaml, hash: 'sha256:b91eba6f855a8ceb399592061c6ebb75c20d6151a99475cde29a3741768e75a3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0558_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 109
+  label: 佛說呪齒經
+  type: juan
+  level: 1
+hash: sha256:15800cc460e121ed50ed510eb8ee117fdc5fc00821fa53540b5fa2af6061da1b

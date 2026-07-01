@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0558/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說呪齒經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1327.xml
+    old_id: T21n1327
+hash: sha256:a30881942c6272fff72e50e0a2f2e71960cf3c7fc73cbfddaf491f6f57f522d2
