@@ -15,15 +15,22 @@ metadata:
   edition:
     short: bkk
 editions:
-- {short: 宋, label: 宋, source_xml_id: wit1}
-- {short: 元, label: 元, source_xml_id: wit2}
-- {short: 明, label: 明, source_xml_id: wit3}
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
 assets:
   parts:
   - {seq: 0, filename: KR6j0558_000.yaml, hash: 'sha256:a30881942c6272fff72e50e0a2f2e71960cf3c7fc73cbfddaf491f6f57f522d2'}
-  - {seq: 1, filename: KR6j0558_001.yaml, hash: 'sha256:34f6d5794f1aae485622e868388e8040355cef418a2babac441760a8640d0f49'}
+  - {seq: 1, filename: KR6j0558_001.yaml, hash: 'sha256:74eeac2418fa9c49a3e0e25e75cc821ecec200fb97e5499dda928b533b7913b9'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0558_001.markers.yaml, hash: 'sha256:4832e2b48098af74037f94822187f8f76c4ee692f4cd16f722de0f80973ae4b6'}
+  - {seq: 0, role: markers, filename: assets/KR6j0558_000.markers.yaml, hash: 'sha256:46c370ecb1851716ec7dbf337a93274f4c4c81755264235bed73e11543b434aa'}
+  - {seq: 1, role: markers, filename: assets/KR6j0558_001.markers.yaml, hash: 'sha256:e12038cf8eed0ca9d4c5ba48586d57c76388432f13757f1b779cc54a9fa90775'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +42,4 @@ table_of_contents:
   label: 佛說呪齒經
   type: juan
   level: 1
-hash: sha256:75b7678ea8d5ff8ec9085596083ca2c4d09ac4fa37e01138b5402b76a9d463ec
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ca0ec98c822fde7a071c8e6295dca79f153cdcf7f8fc03e3c8bd9e589962614f
