@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 東晉竺曇無蘭譯南無佛南無法南無比丘僧南無舍利弗大目乾連比丘南無覺意名聞邊北方健陀摩呵衍山彼有虫王名差吼無在某牙齒中止今當遣使者無敢食某牙及牙根中牙根中牙邊虫不即下器中頭破作七分如鳩羅勤蟮梵天勸是呪南無佛令我所呪皆從如願
-  hash: sha256:0b87cc2e683c3a7bb720ca480422f03ba479fa40d4b659df00300629068aa037
+  text: 東晉竺曇無蘭譯南無佛南無法南無比丘僧南無舍利弗大目乾連比丘南無覺意名聞邊北方健陀摩呵衍山彼有蟲王名差吼無在某牙齒中止今當遣使者無敢食某牙及牙根中牙根中牙邊蟲不即下器中頭破作七分如鳩羅勤蟺梵天勸是呪南無佛令我所呪皆從如願
+  hash: sha256:04cbaba725ec25b8653f0b3b350eeb33b90dc28b6d426cf1489e134b3ebda4c3
   markers:
   - {type: 'cbeta:juan-start', offset: 0, content: 佛說呪齒經, id: KR6j0558_T_001-juan-start, juan_n: '001', jhead: 佛說呪齒經}
   - {type: 'cbeta:juan-end', offset: 109, content: 佛說呪齒經, id: KR6j0558_T_001-juan-end, juan_n: '001', jhead: 佛說呪齒經}
@@ -17,4 +17,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T21/T21n1327.xml
     old_id: T21n1327
-hash: sha256:74eeac2418fa9c49a3e0e25e75cc821ecec200fb97e5499dda928b533b7913b9
+hash: sha256:34f6d5794f1aae485622e868388e8040355cef418a2babac441760a8640d0f49
